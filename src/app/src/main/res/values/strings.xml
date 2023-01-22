@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AWIS-PhoneBook</string>
+    <string name="preference_phonebook_key">national.json</string>
 </resources>
