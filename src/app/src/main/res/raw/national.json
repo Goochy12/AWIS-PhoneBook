@@ -1,0 +1,1340 @@
+[
+ {
+   "State": "SA",
+   "Airport": "Adelaide",
+   "ICAO": "YPAD",
+   "Phone": "(08) 8150 3800"
+ },
+ {
+   "State": "SA",
+   "Airport": "Adelaide/Parafield",
+   "ICAO": "YPPF",
+   "Phone": "(08) 8150 3813"
+ },
+ {
+   "State": "WA",
+   "Airport": "Albany",
+   "ICAO": "YABA",
+   "Phone": "(08) 6216 2600"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Albury",
+   "ICAO": "YMAY",
+   "Phone": "(02) 9353 6400"
+ },
+ {
+   "State": "NT",
+   "Airport": "Alice Springs",
+   "ICAO": "YBAS",
+   "Phone": "(08) 7922 2500"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Amberley",
+   "ICAO": "YAMB",
+   "Phone": "(07) 3564 3700"
+ },
+ {
+   "State": "WA",
+   "Airport": "Argyle",
+   "ICAO": "YARG",
+   "Phone": "(08) 6216 2601"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Armidale",
+   "ICAO": "YARM",
+   "Phone": "(02) 9353 6401"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Avalon",
+   "ICAO": "YMAV",
+   "Phone": "(03) 8470 3200"
+ },
+ {
+   "State": "NT",
+   "Airport": "Ayers Rock/Connellan (Yulara)",
+   "ICAO": "YAYE",
+   "Phone": "(08) 7922 2516"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Bairnsdale",
+   "ICAO": "YBNS",
+   "Phone": "(03) 8470 3201"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Ballarat",
+   "ICAO": "YBLT",
+   "Phone": "(03) 8470 3202"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Ballera",
+   "ICAO": "YLLE",
+   "Phone": "(07) 3564 3702"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Ballina/Byron Gateway",
+   "ICAO": "YBNA",
+   "Phone": "(02) 9353 6402"
+ },
+ {
+   "State": "WA",
+   "Airport": "Barrow Island",
+   "ICAO": "YBWX",
+   "Phone": "(08) 6216 2602"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Bathurst",
+   "ICAO": "YBTH",
+   "Phone": "(02) 9353 6404"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Bendigo",
+   "ICAO": "YBDG",
+   "Phone": "(03) 8470 3203"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Birdsville",
+   "ICAO": "YBDV",
+   "Phone": "(07) 3564 3703"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Blackall",
+   "ICAO": "YBCK",
+   "Phone": "(07) 3564 3704"
+ },
+ {
+   "State": "NT",
+   "Airport": "Borroloola",
+   "ICAO": "YBRL",
+   "Phone": "(08) 7922 2502"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Bourke",
+   "ICAO": "YBKE",
+   "Phone": "(02) 9353 6405"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Brisbane",
+   "ICAO": "YBBN",
+   "Phone": "(07) 3564 3705"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Brisbane/Archerfield",
+   "ICAO": "YBAF",
+   "Phone": "(07) 3564 3701"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Brisbane West Wellcamp",
+   "ICAO": "YBWW",
+   "Phone": "(07) 3564 3746"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Broken Hill",
+   "ICAO": "YBHI",
+   "Phone": "(02) 9353 6406"
+ },
+ {
+   "State": "WA",
+   "Airport": "Broome/INT",
+   "ICAO": "YBRM",
+   "Phone": "(08) 6216 2603"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Bundaberg",
+   "ICAO": "YBUD",
+   "Phone": "(07) 3564 3706"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Burketown",
+   "ICAO": "YBKT",
+   "Phone": "(07) 3564 3707"
+ },
+ {
+   "State": "WA",
+   "Airport": "Busselton",
+   "ICAO": "YBLN",
+   "Phone": "(08) 6216 2604"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Cairns/Cairns INT",
+   "ICAO": "YBCS",
+   "Phone": "(07) 3564 3708"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Camden",
+   "ICAO": "YSCN",
+   "Phone": "(02) 9353 6407"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Canberra",
+   "ICAO": "YSCB",
+   "Phone": "(02) 9353 6408"
+ },
+ {
+   "State": "WA",
+   "Airport": "Carnarvon",
+   "ICAO": "YCAR",
+   "Phone": "(08) 6216 2605"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Casino",
+   "ICAO": "YCAS",
+   "Phone": "(02) 9353 6409"
+ },
+ {
+   "State": "SA",
+   "Airport": "Ceduna",
+   "ICAO": "YCDU",
+   "Phone": "(08) 8150 3801"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Century Mine",
+   "ICAO": "YCNY",
+   "Phone": "(07) 3564 3709"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Cessnock",
+   "ICAO": "YCNK",
+   "Phone": "(02) 9353 6410"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Charleville",
+   "ICAO": "YBCV",
+   "Phone": "(07) 3564 3710"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Chinchilla",
+   "ICAO": "YCCA",
+   "Phone": "(07) 4662 7582"
+ },
+ {
+   "State": "SA",
+   "Airport": "Cleve",
+   "ICAO": "YCEE",
+   "Phone": "(08) 8150 3802"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Cloncurry",
+   "ICAO": "YCCY",
+   "Phone": "(07) 3564 3711"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Cobar",
+   "ICAO": "YCBA",
+   "Phone": "(02) 9353 6411"
+ },
+ {
+   "State": "WA",
+   "Airport": "Cocos (Keeling) Islands",
+   "ICAO": "YPCC",
+   "Phone": "(08) 6216 2607"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Coffs Harbour",
+   "ICAO": "YCFS",
+   "Phone": "(02) 9353 6412"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Coldstream",
+   "ICAO": "YCEM",
+   "Phone": "(03) 8470 3205"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Condobolin",
+   "ICAO": "YCDO",
+   "Phone": "(02) 9353 6413"
+ },
+ {
+   "State": "SA",
+   "Airport": "Coober Pedy",
+   "ICAO": "YCBP",
+   "Phone": "(08) 8150 3803"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Cooktown",
+   "ICAO": "YCKN",
+   "Phone": "(07) 3564 3712"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Cooma - Snowy Mountains",
+   "ICAO": "YCOM",
+   "Phone": "(02) 9353 6414"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Coonabarabran",
+   "ICAO": "YCBB",
+   "Phone": "(02) 9353 6415"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Coonamble",
+   "ICAO": "YCNM",
+   "Phone": "(02) 9353 6416"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Cowra",
+   "ICAO": "YCWR",
+   "Phone": "(02) 9353 6417"
+ },
+ {
+   "State": "SA",
+   "Airport": "Cummins Town",
+   "ICAO": "YCMM",
+   "Phone": "(08) 8150 3804"
+ },
+ {
+   "State": "WA",
+   "Airport": "Cunderdin",
+   "ICAO": "YCUN",
+   "Phone": "(08) 6216 2608"
+ },
+ {
+   "State": "WA",
+   "Airport": "Curtin",
+   "ICAO": "YCIN",
+   "Phone": "(08) 6216 2609"
+ },
+ {
+   "State": "NT",
+   "Airport": "Darwin",
+   "ICAO": "YPDN",
+   "Phone": "(08) 7922 2503"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Deniliquin",
+   "ICAO": "YDLQ",
+   "Phone": "(02) 9353 6418"
+ },
+ {
+   "State": "WA",
+   "Airport": "Derby",
+   "ICAO": "YDBY",
+   "Phone": "(08) 6216 2610"
+ },
+ {
+   "State": "TAS",
+   "Airport": "Devonport",
+   "ICAO": "YDPO",
+   "Phone": "(03) 6283 8600"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Dubbo",
+   "ICAO": "YSDU",
+   "Phone": "(02) 9353 6419"
+ },
+ {
+   "State": "VIC",
+   "Airport": "East Sale",
+   "ICAO": "YMES",
+   "Phone": "(03) 8470 3206"
+ },
+ {
+   "State": "SA",
+   "Airport": "Edinburgh",
+   "ICAO": "YPED",
+   "Phone": "(08) 8150 3805"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Emerald",
+   "ICAO": "YEML",
+   "Phone": "(07) 3564 3714"
+ },
+ {
+   "State": "SA",
+   "Airport": "Ernabella (Pukatja)",
+   "ICAO": "YERN",
+   "Phone": "(08) 8150 3816"
+ },
+ {
+   "State": "WA",
+   "Airport": "Esperance",
+   "ICAO": "YESP",
+   "Phone": "(08) 6216 2611"
+ },
+ {
+   "State": "WA",
+   "Airport": "Fitzroy Crossing",
+   "ICAO": "YFTZ",
+   "Phone": "(08) 6216 2612"
+ },
+ {
+   "State": "TAS",
+   "Airport": "Flinders Island",
+   "ICAO": "YFLI",
+   "Phone": "(03) 6283 8601"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Forbes",
+   "ICAO": "YFBS",
+   "Phone": "(02) 9353 6420"
+ },
+ {
+   "State": "WA",
+   "Airport": "Forrest",
+   "ICAO": "YFRT",
+   "Phone": "(08) 6216 2613"
+ },
+ {
+   "State": "WA",
+   "Airport": "Geraldton",
+   "ICAO": "YGEL",
+   "Phone": "(08) 6216 2615"
+ },
+ {
+   "State": "WA",
+   "Airport": "Gingin",
+   "ICAO": "YGIG",
+   "Phone": "(08) 6216 2616"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Gladstone",
+   "ICAO": "YGLA",
+   "Phone": "(07) 3564 3715"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Glen Innes",
+   "ICAO": "YGLI",
+   "Phone": "(02) 9353 6421"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Gold Coast",
+   "ICAO": "YBCG",
+   "Phone": "(07) 3564 3713"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Goulburn",
+   "ICAO": "YGLB",
+   "Phone": "(02) 9353 6422"
+ },
+ {
+   "State": "NT",
+   "Airport": "Gove",
+   "ICAO": "YPGV",
+   "Phone": "(08) 7922 2505"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Grafton",
+   "ICAO": "YGFN",
+   "Phone": "(02) 9353 6423"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Griffith",
+   "ICAO": "YGTH",
+   "Phone": "(02) 9353 6424"
+ },
+ {
+   "State": "NT",
+   "Airport": "Groote Eylandt",
+   "ICAO": "YGTE",
+   "Phone": "(08) 7922 2506"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Gunnedah",
+   "ICAO": "YGDH",
+   "Phone": "(02) 9353 6425"
+ },
+ {
+   "State": "WA",
+   "Airport": "Halls Creek",
+   "ICAO": "YHLC",
+   "Phone": "(08) 6216 2617"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Hamilton",
+   "ICAO": "YHML",
+   "Phone": "(03) 8470 3208"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Hamilton Island",
+   "ICAO": "YBHM",
+   "Phone": "(07) 3564 3716"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Hay",
+   "ICAO": "YHAY",
+   "Phone": "(02) 9353 6426"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Hervey Bay",
+   "ICAO": "YHBA",
+   "Phone": "(07) 3564 3717"
+ },
+ {
+   "State": "TAS",
+   "Airport": "Hobart",
+   "ICAO": "YMHB",
+   "Phone": "(03) 6283 8602"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Holsworthy",
+   "ICAO": "YSHW",
+   "Phone": "(02) 9353 6427"
+ },
+ {
+   "State": "NT",
+   "Airport": "Hooker Creek (Lajamanu)",
+   "ICAO": "YHOO",
+   "Phone": "(08) 7922 2508"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Horn Island",
+   "ICAO": "YHID",
+   "Phone": "(07) 3564 3718"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Horsham",
+   "ICAO": "YHSM",
+   "Phone": "(03) 8470 3209"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Hughenden",
+   "ICAO": "YHUG",
+   "Phone": "(07) 3564 3719"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Ivanhoe",
+   "ICAO": "YIVO",
+   "Phone": "(02) 9353 6428"
+ },
+ {
+   "State": "NT",
+   "Airport": "Jabiru",
+   "ICAO": "YJAB",
+   "Phone": "(08) 7922 2507"
+ },
+ {
+   "State": "WA",
+   "Airport": "Kalgoorlie-Boulder",
+   "ICAO": "YPKG",
+   "Phone": "(08) 6216 2619"
+ },
+ {
+   "State": "WA",
+   "Airport": "Karratha",
+   "ICAO": "YPKA",
+   "Phone": "(08) 6216 2620"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Kempsey",
+   "ICAO": "YKMP",
+   "Phone": "(02) 9353 6430"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Kilmore Gap",
+   "ICAO": "KMG",
+   "Phone": "(03) 8470 3210"
+ },
+ {
+   "State": "TAS",
+   "Airport": "King Island",
+   "ICAO": "YKII",
+   "Phone": "(03) 6283 8603"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Kingaroy",
+   "ICAO": "YKRY",
+   "Phone": "(07) 3564 3720"
+ },
+ {
+   "State": "SA",
+   "Airport": "Kingscote/Kangaroo Island",
+   "ICAO": "YKSC",
+   "Phone": "(08) 8150 3806"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Kowanyama",
+   "ICAO": "YKOW",
+   "Phone": "(07) 3564 3721"
+ },
+ {
+   "State": "WA",
+   "Airport": "Kununurra",
+   "ICAO": "YPKU",
+   "Phone": "(08) 6216 2621"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Latrobe Valley",
+   "ICAO": "YLTV",
+   "Phone": "(03) 8470 3211"
+ },
+ {
+   "State": "TAS",
+   "Airport": "Launceston",
+   "ICAO": "YMLT",
+   "Phone": "(03) 6283 8604"
+ },
+ {
+   "State": "WA",
+   "Airport": "Laverton",
+   "ICAO": "YLTN",
+   "Phone": "(08) 6216 2622"
+ },
+ {
+   "State": "WA",
+   "Airport": "Learmonth",
+   "ICAO": "YPLM",
+   "Phone": "(08) 6216 2623"
+ },
+ {
+   "State": "SA",
+   "Airport": "Leigh Creek",
+   "ICAO": "YLEC",
+   "Phone": "(08) 8150 3807"
+ },
+ {
+   "State": "WA",
+   "Airport": "Leinster",
+   "ICAO": "YLST",
+   "Phone": "(08) 6216 2624"
+ },
+ {
+   "State": "WA",
+   "Airport": "Leonora",
+   "ICAO": "YLEO",
+   "Phone": "(08) 6216 2625"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Lismore",
+   "ICAO": "YLIS",
+   "Phone": "(02) 9353 6431"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Lockhart River",
+   "ICAO": "YLHR",
+   "Phone": "(07) 3564 3722"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Longreach",
+   "ICAO": "YLRE",
+   "Phone": "(07) 3564 3723"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Lord Howe Island",
+   "ICAO": "YLHI",
+   "Phone": "(02) 9353 6432"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Mackay",
+   "ICAO": "YBMK",
+   "Phone": "(07) 3564 3724"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Maitland (NSW",
+   "ICAO": "YMND",
+   "Phone": "(02) 9353 6433"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Mallacoota",
+   "ICAO": "YMCO",
+   "Phone": "(03) 8470 3212"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Mangalore",
+   "ICAO": "YMNG",
+   "Phone": "(03) 8470 3213"
+ },
+ {
+   "State": "NT",
+   "Airport": "Maningrida",
+   "ICAO": "YMGD",
+   "Phone": "(08) 7922 2509"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Mareeba",
+   "ICAO": "YMBA",
+   "Phone": "(07) 3564 3725"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Maryborough (QLD",
+   "ICAO": "YMYB",
+   "Phone": "(07) 3564 3726"
+ },
+ {
+   "State": "NT",
+   "Airport": "McArthur River Mine",
+   "ICAO": "YMHU",
+   "Phone": "(08) 7922 2510"
+ },
+ {
+   "State": "WA",
+   "Airport": "Meekatharra",
+   "ICAO": "YMEK",
+   "Phone": "(08) 6216 2626"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Melbourne",
+   "ICAO": "YMML",
+   "Phone": "(03) 8470 3214"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Melbourne/Essendon",
+   "ICAO": "YMEN",
+   "Phone": "(03) 8470 3207"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Melbourne/Moorabbin",
+   "ICAO": "YMMB",
+   "Phone": "(03) 8470 3216"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Merimbula",
+   "ICAO": "YMER",
+   "Phone": "(02) 9353 6434"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Mildura",
+   "ICAO": "YMIA",
+   "Phone": "(03) 8470 3215"
+ },
+ {
+   "State": "NT",
+   "Airport": "Milingimbi",
+   "ICAO": "YMGB",
+   "Phone": "(08) 7922 2511"
+ },
+ {
+   "State": "SA",
+   "Airport": "Moomba",
+   "ICAO": "YOOM",
+   "Phone": "(08) 8150 3808"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Moranbah",
+   "ICAO": "YMRB",
+   "Phone": "(07) 3564 3727"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Moree",
+   "ICAO": "YMOR",
+   "Phone": "(02) 9353 6435"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Mornington Island",
+   "ICAO": "YMTI",
+   "Phone": "(07) 3564 3728"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Moruya",
+   "ICAO": "YMRY",
+   "Phone": "(02) 9353 6436"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Moss Vale",
+   "ICAO": "MSV",
+   "Phone": "(02) 9353 6437"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Mount Boyce",
+   "ICAO": "MTB",
+   "Phone": "(02) 9353 6438"
+ },
+ {
+   "State": "SA",
+   "Airport": "Mount Gambier",
+   "ICAO": "YMTG",
+   "Phone": "(08) 8150 3809"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Mount Hotham",
+   "ICAO": "YHOT",
+   "Phone": "(03) 8470 3217"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Mount Isa",
+   "ICAO": "YBMA",
+   "Phone": "(07) 3564 3729"
+ },
+ {
+   "State": "WA",
+   "Airport": "Mount Magnet",
+   "ICAO": "YMOG",
+   "Phone": "(08) 6216 2627"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Mudgee",
+   "ICAO": "YMDG",
+   "Phone": "(02) 9353 6439"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Murrurundi",
+   "ICAO": "MUI",
+   "Phone": "(02) 9353 6440"
+ },
+ {
+   "State": "SA",
+   "Airport": "Naracoorte",
+   "ICAO": "YNRC",
+   "Phone": "(08) 8150 3810"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Narrabri",
+   "ICAO": "YNBR",
+   "Phone": "(02) 9353 6441"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Narrandera",
+   "ICAO": "YNAR",
+   "Phone": "(02) 9353 6442"
+ },
+ {
+   "State": "WA",
+   "Airport": "Newman",
+   "ICAO": "YNWN",
+   "Phone": "(08) 6216 2628"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Nhill",
+   "ICAO": "YNHL",
+   "Phone": "(03) 8470 3218"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Norfolk Island",
+   "ICAO": "YSNF",
+   "Phone": "(02) 9353 6443"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Normanton",
+   "ICAO": "YNTN",
+   "Phone": "(07) 3564 3730"
+ },
+ {
+   "State": "WA",
+   "Airport": "Norseman",
+   "ICAO": "YNSM",
+   "Phone": "(08) 6216 2629"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Nowra",
+   "ICAO": "YSNW",
+   "Phone": "(02) 9353 6444"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Oakey",
+   "ICAO": "YBOK",
+   "Phone": "(07) 3564 3731"
+ },
+ {
+   "State": "SA",
+   "Airport": "Olympic Dam",
+   "ICAO": "YOLD",
+   "Phone": "(08) 8150 3811"
+ },
+ {
+   "State": "WA",
+   "Airport": "Onslow",
+   "ICAO": "YOLW",
+   "Phone": "(08) 6216 2630"
+ },
+ {
+   "State": "SA",
+   "Airport": "Oodnadatta",
+   "ICAO": "YOOD",
+   "Phone": "(08) 8150 3812"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Orange",
+   "ICAO": "YORG",
+   "Phone": "(02) 9353 6445"
+ },
+ {
+   "State": "WA",
+   "Airport": "Paraburdoo",
+   "ICAO": "YPBO",
+   "Phone": "(08) 6216 2631"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Parkes",
+   "ICAO": "YPKS",
+   "Phone": "(02) 9353 6446"
+ },
+ {
+   "State": "WA",
+   "Airport": "Pearce",
+   "ICAO": "YPEA",
+   "Phone": "(08) 6216 2632"
+ },
+ {
+   "State": "WA",
+   "Airport": "Perth",
+   "ICAO": "YPPH",
+   "Phone": "(08) 6216 2633"
+ },
+ {
+   "State": "WA",
+   "Airport": "Perth/Jandakot",
+   "ICAO": "YPJT",
+   "Phone": "(08) 6216 2618"
+ },
+ {
+   "State": "SA",
+   "Airport": "Port Augusta",
+   "ICAO": "YPAG",
+   "Phone": "(08) 8150 3814"
+ },
+ {
+   "State": "WA",
+   "Airport": "Port Hedland",
+   "ICAO": "YPPD",
+   "Phone": "(08) 6216 2634"
+ },
+ {
+   "State": "NT",
+   "Airport": "Port Keats",
+   "ICAO": "YPKT",
+   "Phone": "(08) 7922 2512"
+ },
+ {
+   "State": "SA",
+   "Airport": "Port Lincoln",
+   "ICAO": "YPLC",
+   "Phone": "(08) 8150 3815"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Port Macquaire",
+   "ICAO": "YPMQ",
+   "Phone": "(02) 9353 6447"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Portland",
+   "ICAO": "YPOD",
+   "Phone": "(03) 8470 3204"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Proserpine/Whitsunday Coast",
+   "ICAO": "YBPN",
+   "Phone": "(07) 3564 3732"
+ },
+ {
+   "State": "SA",
+   "Airport": "Renmark",
+   "ICAO": "YREN",
+   "Phone": "(08) 8150 3817"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Richmond (NSW",
+   "ICAO": "YSRI",
+   "Phone": "(02) 9353 6448"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Richmond (QLD",
+   "ICAO": "YRMD",
+   "Phone": "(07) 3564 3733"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Rockhampton",
+   "ICAO": "YBRK",
+   "Phone": "(07) 3564 3734"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Roma",
+   "ICAO": "YROM",
+   "Phone": "(07) 3564 3735"
+ },
+ {
+   "State": "WA",
+   "Airport": "Rottnest Island",
+   "ICAO": "YRTI",
+   "Phone": "(08) 6216 2635"
+ },
+ {
+   "State": "TAS",
+   "Airport": "Saint Helens",
+   "ICAO": "YSTH",
+   "Phone": "(03) 6283 8606"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Scherger (RAAF)",
+   "ICAO": "YBSG",
+   "Phone": "(07) 3564 3737"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Scone",
+   "ICAO": "YSCO",
+   "Phone": "(02) 9353 6449"
+ },
+ {
+   "State": "WA",
+   "Airport": "Shark Bay",
+   "ICAO": "YSHK",
+   "Phone": "(08) 6216 2636"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Shellharbour Airport",
+   "ICAO": "YSHL",
+   "Phone": "(02) 9353 6461"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Shepparton",
+   "ICAO": "YSHT",
+   "Phone": "(03) 8470 3219"
+ },
+ {
+   "State": "TAS",
+   "Airport": "Smithton",
+   "ICAO": "YSMI",
+   "Phone": "(03) 6283 8605"
+ },
+ {
+   "State": "WA",
+   "Airport": "Southern Cross",
+   "ICAO": "YSCR",
+   "Phone": "(08) 6216 2637"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Stawell",
+   "ICAO": "YSWL",
+   "Phone": "(03) 8470 3220"
+ },
+ {
+   "State": "TAS",
+   "Airport": "Strahan",
+   "ICAO": "YSRN",
+   "Phone": "(03) 6283 8607"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Sunshine Coast",
+   "ICAO": "YBSU",
+   "Phone": "(07) 3564 3738"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Swan Hill",
+   "ICAO": "YSWH",
+   "Phone": "(03) 8470 3221"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Sydney/Kingsford Smith",
+   "ICAO": "YSSY",
+   "Phone": "(02) 9353 6450"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Sydney/Bankstown",
+   "ICAO": "YSBK",
+   "Phone": "(02) 9353 6403"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Tamworth",
+   "ICAO": "YSTW",
+   "Phone": "(02) 9353 6451"
+ },
+ {
+   "State": "SA",
+   "Airport": "Tarcoola",
+   "ICAO": "YTAR",
+   "Phone": "(08) 8150 3818"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Taree",
+   "ICAO": "YTRE",
+   "Phone": "(02) 9353 6452"
+ },
+ {
+   "State": "WA",
+   "Airport": "Telfer",
+   "ICAO": "YTEF",
+   "Phone": "(08) 6216 2638"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Temora",
+   "ICAO": "YTEM",
+   "Phone": "(02) 9353 6453"
+ },
+ {
+   "State": "NT",
+   "Airport": "Tennant Creek",
+   "ICAO": "YTNK",
+   "Phone": "(08) 7922 2513"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Thangool",
+   "ICAO": "YTNG",
+   "Phone": "(07) 3564 3739"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Thargomindah",
+   "ICAO": "YTGM",
+   "Phone": "(07) 3564 3740"
+ },
+ {
+   "State": "QLD",
+   "Airport": "The Monument",
+   "ICAO": "YTMO",
+   "Phone": "(07) 3564 3741"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Tibooburra",
+   "ICAO": "YTIB",
+   "Phone": "(02) 9353 6454"
+ },
+ {
+   "State": "NT",
+   "Airport": "Tindal",
+   "ICAO": "YPTN",
+   "Phone": "(08) 7922 2514"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Toowoomba",
+   "ICAO": "YTWB",
+   "Phone": "(07) 3564 3742"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Townsville/ Townsville INT",
+   "ICAO": "YBTL",
+   "Phone": "(07) 3564 3743"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Trepell",
+   "ICAO": "YTEE",
+   "Phone": "(07) 3564 3744"
+ },
+ {
+   "State": "WA",
+   "Airport": "Tropicana",
+   "ICAO": "YTRA",
+   "Phone": "(08) 6216 2639"
+ },
+ {
+   "State": "NT",
+   "Airport": "Victoria River Downs",
+   "ICAO": "YVRD",
+   "Phone": "(08) 7922 2515"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Wagga Wagga",
+   "ICAO": "YSWG",
+   "Phone": "(02) 9353 6455"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Walgett",
+   "ICAO": "YWLG",
+   "Phone": "(02) 9353 6456"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Wangaratta",
+   "ICAO": "YWGT",
+   "Phone": "(03) 8470 3222"
+ },
+ {
+   "State": "WA",
+   "Airport": "Warburton",
+   "ICAO": "YWBR",
+   "Phone": "(08) 6216 2640"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Warracknabeal",
+   "ICAO": "YWKB",
+   "Phone": "(03) 8470 3223"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Warrnambool",
+   "ICAO": "YWBL",
+   "Phone": "(03) 8470 3224"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Weipa",
+   "ICAO": "YBWP",
+   "Phone": "(07) 3564 3745"
+ },
+ {
+   "State": "WA",
+   "Airport": "West Angelas",
+   "ICAO": "YANG",
+   "Phone": "(08) 6332 8175"
+ },
+ {
+   "State": "NSW",
+   "Airport": "West Wyalong",
+   "ICAO": "YWWL",
+   "Phone": "(02) 9353 6457"
+ },
+ {
+   "State": "SA",
+   "Airport": "Whyalla",
+   "ICAO": "YWHA",
+   "Phone": "(08) 8150 3819"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Wilcannia",
+   "ICAO": "YWCA",
+   "Phone": "(02) 9353 6459"
+ },
+ {
+   "State": "QLD",
+   "Airport": "Williamson",
+   "ICAO": "YWIS",
+   "Phone": "(07) 3564 3747"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Williamtown",
+   "ICAO": "YWLM",
+   "Phone": "(02) 9353 6460"
+ },
+ {
+   "State": "WA",
+   "Airport": "Wiluna",
+   "ICAO": "YWLU",
+   "Phone": "(08) 6216 2641"
+ },
+ {
+   "State": "SA",
+   "Airport": "Woomera",
+   "ICAO": "YPWR",
+   "Phone": "(08) 8150 3820"
+ },
+ {
+   "State": "SA",
+   "Airport": "Wudinna",
+   "ICAO": "YWUD",
+   "Phone": "(08) 8150 3821"
+ },
+ {
+   "State": "WA",
+   "Airport": "Wyndham",
+   "ICAO": "YWYM",
+   "Phone": "(08) 6216 2642"
+ },
+ {
+   "State": "TAS",
+   "Airport": "Wynyard",
+   "ICAO": "YWYY",
+   "Phone": "(03) 6283 8608"
+ },
+ {
+   "State": "VIC",
+   "Airport": "Yarram",
+   "ICAO": "YYRM",
+   "Phone": "(03) 8470 3225"
+ },
+ {
+   "State": "NSW",
+   "Airport": "Young",
+   "ICAO": "YYNG",
+   "Phone": "(02) 9353 6462"
+ }
+]
