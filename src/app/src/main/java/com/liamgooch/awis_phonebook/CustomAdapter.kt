@@ -8,36 +8,32 @@ import androidx.recyclerview.widget.RecyclerView
 import com.google.android.flexbox.AlignItems
 import com.google.android.flexbox.AlignSelf
 import com.google.android.flexbox.FlexboxLayoutManager
+import org.json.JSONArray
+import org.json.JSONObject
 
 
-
-
-class CustomAdapter(private val dataSet: ArrayList<String>) : RecyclerView.Adapter<CustomAdapter.ViewHolder>() {
+class CustomAdapter(private val dataSet: JSONArray) : RecyclerView.Adapter<CustomAdapter.ViewHolder>() {
 
     class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {
-        val textView: TextView
+        val airportTextView: TextView
+        val phoneTextView: TextView
 
         init {
-            textView = view.findViewById(R.id.stateTextView)
+            airportTextView = view.findViewById(R.id.airportTextView)
+            phoneTextView = view.findViewById(R.id.phoneTextView)
         }
     }
 
     override fun onCreateViewHolder(viewGroup: ViewGroup, viewType: Int): ViewHolder {
-        val view = LayoutInflater.from(viewGroup.context).inflate(R.layout.state_row_item, viewGroup, false)
+        val view = LayoutInflater.from(viewGroup.context).inflate(R.layout.phone_row_item, viewGroup, false)
 
         return ViewHolder(view)
     }
 
     override fun onBindViewHolder(viewHolder: ViewHolder, position: Int) {
-        viewHolder.textView.text = dataSet[position]
-
-//        val lp : ViewGroup.LayoutParams = viewHolder.textView.layoutParams
-//        if (lp is FlexboxLayoutManager.LayoutParams){
-//            val fp : FlexboxLayoutManager.LayoutParams = lp as FlexboxLayoutManager.LayoutParams
-//            fp.flexGrow = 1.0f
-//            fp.alignSelf = AlignItems.FLEX_END
-//        }
+        viewHolder.airportTextView.text = JSONObject(dataSet.getString(position)).getString("Airport")
+        viewHolder.phoneTextView.text = JSONObject(dataSet.getString(position)).getString("Phone")
     }
 
-    override fun getItemCount() = dataSet.size
+    override fun getItemCount() = dataSet.length()
 }

@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         if (savedInstanceState == null){
             supportFragmentManager.commit {
                 setReorderingAllowed(true)
-                add<RecycFragment>(R.id.fragView)
+                add<StatesFragment>(R.id.fragView)
             }
         }
 
