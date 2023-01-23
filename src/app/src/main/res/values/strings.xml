@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">AWIS-PhoneBook</string>
     <string name="preference_phonebook_key">national.json</string>
+    <string name="state_act">ACT</string>
+    <string name="state_nsw">NSW</string>
+    <string name="state_nt">NT</string>
+    <string name="state_qld">QLD</string>
+    <string name="state_sa">SA</string>
+    <string name="state_tas">TAS</string>
+    <string name="state_vic">VIC</string>
+    <string name="state_wa">WA</string>
 </resources>

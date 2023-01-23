@@ -5,8 +5,13 @@ import android.view.View
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.google.android.flexbox.FlexDirection
+import com.google.android.flexbox.FlexWrap
+import com.google.android.flexbox.FlexboxLayoutManager
+import com.google.android.flexbox.JustifyContent
 import org.json.JSONArray
 import org.json.JSONObject
+
 
 class RecycFragment : Fragment(R.layout.recyc_frag) {
 
@@ -21,11 +26,17 @@ class RecycFragment : Fragment(R.layout.recyc_frag) {
             states.add(k)
         }
 
-
         val rV = activity?.findViewById<View>(R.id.rV) as RecyclerView
         val adapter = CustomAdapter(states);
         rV.adapter = adapter;
         rV.layoutManager = LinearLayoutManager(activity);
+
+//        val layoutManager = FlexboxLayoutManager(activity)
+//        layoutManager.flexDirection = FlexDirection.COLUMN
+//        layoutManager.justifyContent = JustifyContent.FLEX_END
+//        layoutManager.flexWrap = FlexWrap.WRAP
+//
+//        rV.layoutManager = layoutManager
     }
 
 
