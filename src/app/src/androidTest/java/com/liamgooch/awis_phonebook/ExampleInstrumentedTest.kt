@@ -1,4 +1,4 @@
-package com.example.awis_phonebook
+package com.liamgooch.awis_phonebook
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
