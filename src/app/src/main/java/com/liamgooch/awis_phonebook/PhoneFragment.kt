@@ -1,14 +1,13 @@
 package com.liamgooch.awis_phonebook
 
+import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
-import android.view.LayoutInflater
 import android.view.View
-import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import org.json.JSONArray
-import org.json.JSONObject
 
 
 class PhoneFragment : Fragment(R.layout.phone_fragment) {
@@ -30,18 +29,16 @@ class PhoneFragment : Fragment(R.layout.phone_fragment) {
 
 
         val rV = activity?.findViewById<View>(R.id.rV) as RecyclerView
-        val adapter = CustomAdapter(airportsJsonArray);
+        val adapter = CustomAdapter(airportsJsonArray){ph -> onClickCallback(ph)};
         rV.adapter = adapter;
         rV.layoutManager = LinearLayoutManager(activity);
 
-//        val layoutManager = FlexboxLayoutManager(activity)
-//        layoutManager.flexDirection = FlexDirection.COLUMN
-//        layoutManager.justifyContent = JustifyContent.FLEX_END
-//        layoutManager.flexWrap = FlexWrap.WRAP
-//
-//        rV.layoutManager = layoutManager
-        // Inflate the layout for this fragment
-       // return inflater.inflate(R.layout.phone_fragment, container, false)
+
+    }
+
+    fun onClickCallback(ph: String) {
+        val intent = Intent(Intent.ACTION_DIAL, Uri.parse("tel:$ph"))
+        startActivity(intent)
     }
 
 
