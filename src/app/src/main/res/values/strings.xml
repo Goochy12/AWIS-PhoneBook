@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AWIS-PhoneBook</string>
+    <string name="app_name">AWIS</string>
     <string name="preference_phonebook_key">national.json</string>
     <string name="state_act">ACT</string>
     <string name="state_nsw">NSW</string>
