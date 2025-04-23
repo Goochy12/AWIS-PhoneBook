@@ -35,7 +35,9 @@ class CustomAdapter(private val dataSet: JSONArray, private val listener: (phone
     }
 
     override fun onBindViewHolder(viewHolder: ViewHolder, position: Int) {
-        viewHolder.airportTextView.text = JSONObject(dataSet.getString(position)).getString("Airport")
+        var airport = JSONObject(dataSet.getString(position)).getString("Airport")
+        var icao = JSONObject(dataSet.getString(position)).getString("ICAO")
+        viewHolder.airportTextView.text = airport + " (" + icao + ")"
         ph = JSONObject(dataSet.getString(position)).getString("Phone")
         viewHolder.phoneTextView.text = ph
 
