@@ -5,16 +5,22 @@ plugins {
 
 android {
     namespace 'com.liamgooch.awis_phonebook'
-    compileSdk 36
+    compileSdk 37
 
     defaultConfig {
         applicationId "com.liamgoooch.awis_phonebook"
         minSdk 24
+        //noinspection OldTargetApi
         targetSdk 36
-        versionCode 4
+        versionCode 5
         versionName "1.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    packagingOptions {
+        exclude("META-INF/LICENSE.md")
+        exclude("META-INF/LICENSE-notice.md")
     }
 
     buildTypes {
