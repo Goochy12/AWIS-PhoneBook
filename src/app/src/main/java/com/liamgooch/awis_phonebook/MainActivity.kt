@@ -1,5 +1,6 @@
 package com.liamgooch.awis_phonebook
 
+import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -11,6 +12,7 @@ import androidx.fragment.app.commit
 import org.json.JSONArray
 import org.json.JSONObject
 
+@SuppressLint("StaticFieldLeak")
 private lateinit var searchBar: SearchView
 
 class MainActivity : AppCompatActivity() {
